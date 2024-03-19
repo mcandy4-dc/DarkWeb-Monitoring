@@ -1,2 +1,2 @@
 # DarkWeb-Monitoring
-Dark web monitoring is a cybersecurity practice that involves monitoring the dark web for any information related to your organization. 
+Dark web monitoring is a cybersecurity practice that involves monitoring the dark web for any information related to your organization. This could include leaked credentials, sensitive information, or discussions about potential attacks. There are companies that specialize in dark web monitoring and can provide this service for your organization. It's an important part of a comprehensive cybersecurity strategy, as it allows you to proactively identify and respond to potential threats.
