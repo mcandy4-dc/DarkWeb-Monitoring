@@ -17,3 +17,14 @@ university, etc.
  provide real-time monitoring of dark web 
 6. Secure sensitive information:
 Finding sensitive information of victim that is available on dark web secure .
+
+Software and Technology:
+1. Programming Languages:
+ Python
+2. Frameworks:
+ Web crawlers, Data analysis, Machine learning, anomaly detection, OSINT, tor network monitoring, etc
+3. Tools:
+ Tor, VPN
+4. Python Libraries:
+ Tkinter, datetime, pypdf2, cv2, pytesseract, re, mysql, urllib. request, bs4, etc.
+
